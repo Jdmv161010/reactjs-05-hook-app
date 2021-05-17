@@ -1,3 +1,28 @@
+# Temas puntuales de la sección
+
++ Crear otros customHooks
++ useState
++ useCounter - Personalizado
++ useEffect y sus precauciones
++ useRef
++ useFetch - Personalizado + optimizaciones
++ useLayoutEffect
++ Memo
++ useMemo
++ useCallback
++ useReducer
++ Reducers
++ Teoría de un reducer
++ Aplicación de TODOs
++ CRUD local
++ Context
++ Provider
++ useContext
++ React Router
++ Links y NavLinks
++ CreateContext
++ SPA ( Single Page Application )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
